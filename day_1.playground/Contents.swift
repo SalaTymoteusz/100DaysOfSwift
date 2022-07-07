@@ -34,3 +34,7 @@ This goes \
 over multiple \
 lines
 """
+
+// MARK: DOUBLES AND BOOLEANS
+var pi = 3.141
+var awesome = true
