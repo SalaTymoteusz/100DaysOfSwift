@@ -48,3 +48,13 @@ var results = "The test results are here: \(str)"
 
 // MARK: CONSTANTS
 let taylor = "swift"
+
+// MARK: TYPE ANNOTATIONS
+let album: String = "Reputation"
+let year: Int = 1989
+let height: Double = 1.78
+let taylorRocks: Bool = true
+
+// Optional
+var percentage: Double = 99
+var name: String
